@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e2144ad19796211022dd35371153af2e" label="Loan Product" max_length="40" name="x_965246_loaner_re_loan_product" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="2000" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element active="false" label="Product Number" max_length="40" name="product_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" display="true" label="Type" mandatory="true" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Business" value="business"/>
+                <element inactive_on_update="false" label="Education" value="education"/>
+                <element inactive_on_update="false" label="Mortgage" value="mortgage"/>
+                <element inactive_on_update="false" label="Vehicle" value="vehicle"/>
+                <element inactive_on_update="false" label="Wedding" value="wedding"/>
+            </choice>
+        </element>
+    </element>
+</database>

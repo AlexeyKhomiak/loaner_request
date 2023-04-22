@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Loan application form">ecb1596a975e211022dd35371153aff5</sc_cat_item>
+        <sc_category display_value="Request Loan">1d0f4da6975e211022dd35371153af15</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-22 08:50:06</sys_created_on>
+        <sys_id>291251aa975e211022dd35371153afc0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request Loan.Loan application form</sys_name>
+        <sys_package display_value="Loaner Request" source="x_965246_loaner_re">e353b1159756211022dd35371153aff4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">e353b1159756211022dd35371153aff4</sys_scope>
+        <sys_update_name>sc_cat_item_category_291251aa975e211022dd35371153afc0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-22 08:50:06</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">e353b1159756211022dd35371153aff4</application>
+        <file_path/>
+        <instance_id>616f33d0dbd900100b9d21c4059619f5</instance_id>
+        <instance_name>dev95004</instance_name>
+        <name>sc_cat_item_category_291251aa975e211022dd35371153afc0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Loan application form">ecb1596a975e211022dd35371153aff5</sc_cat_item><sc_category display_value="Request Loan">1d0f4da6975e211022dd35371153af15</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-22 08:50:06</sys_created_on><sys_id>291251aa975e211022dd35371153afc0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Request Loan.Loan application form</sys_name><sys_package display_value="Loaner Request" source="x_965246_loaner_re">e353b1159756211022dd35371153aff4</sys_package><sys_policy/><sys_scope display_value="Loaner Request">e353b1159756211022dd35371153aff4</sys_scope><sys_update_name>sc_cat_item_category_291251aa975e211022dd35371153afc0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-22 08:50:06</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-486854789</payload_hash>
+        <record_name>Request Loan.Loan application form</record_name>
+        <reverted_from/>
+        <source>6353b1159756211022dd35371153aff6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-22 08:50:06</sys_created_on>
+        <sys_id>2d1251aa975e211022dd35371153afc3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187a828007d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-22 08:50:06</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>651251aa525e2110578a049dc5bf8cc3</update_guid>
+        <update_guid_history>651251aa525e2110578a049dc5bf8cc3:-486854789</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Request Loan.Loan application form">b5d259aa975e211022dd35371153af11</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-22 08:53:23</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>9cc5618444104c15aefaea862caac181</sys_id>
+        <sys_metadata>291251aa975e211022dd35371153afc0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request Loan.Loan application form</sys_name>
+        <sys_package display_value="Loaner Request" source="x_965246_loaner_re">e353b1159756211022dd35371153aff4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">e353b1159756211022dd35371153aff4</sys_scope>
+        <sys_scope_delete display_value="">13b14f0e68e24275bfae45a72a07e901</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_291251aa975e211022dd35371153afc0</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_291251aa975e211022dd35371153afc0">2d1251aa975e211022dd35371153afc3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-22 08:53:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
