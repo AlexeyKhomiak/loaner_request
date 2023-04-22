@@ -1,2 +1,2 @@
-# loaner_request
+# Loaner Request
 ServiceNow (capstone project)
