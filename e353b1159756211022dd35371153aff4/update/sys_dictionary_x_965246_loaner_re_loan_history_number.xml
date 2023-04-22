@@ -11,7 +11,7 @@
         <column_label>Number</column_label>
         <comments/>
         <create_roles/>
-        <default_value>javascript:global.getNextObjNumberPadded();</default_value>
+        <default_value/>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -53,7 +53,7 @@
         <sys_scope display_value="Loaner Request">e353b1159756211022dd35371153aff4</sys_scope>
         <sys_update_name>sys_dictionary_x_965246_loaner_re_loan_history_number</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-04-18 14:10:31</sys_updated_on>
+        <sys_updated_on>2023-04-22 12:17:25</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

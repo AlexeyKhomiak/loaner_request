@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="8015b1959756211022dd35371153afdf" label="Loan History" max_length="40" name="x_965246_loaner_re_loan_history" type="collection">
-        <element attributes="edge_encryption_enabled=true" label="Comments" max_length="2000" name="comments" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Comments" max_length="4000" name="comments" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Date" max_length="40" name="date" type="glide_date_time"/>
-        <element attributes="edge_encryption_enabled=true" label="Description" max_length="2000" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="4000" name="description" type="string"/>
         <element attributes="encode_utf8=false" label="Loaner" max_length="32" name="loaner" reference="sys_user" type="reference"/>
         <element attributes="encode_utf8=false" label="Manager" max_length="32" name="manager" reference="sys_user" type="reference"/>
-        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Number" max_length="40" name="number" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Product" max_length="250" name="product" type="string"/>
         <element label="Sum" max_length="15" name="sum" type="decimal"/>
         <index name="index">
