@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="DELETE">
+        <active>true</active>
+        <conditions/>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>false</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+
+}]]></script_true>
+        <set_values/>
+        <short_description>set readonly for loan manager</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-25 21:10:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2838db2797da211022dd35371153afd4</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>set readonly for loan manager</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Request" source="x_965246_loaner_re">e353b1159756211022dd35371153aff4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">e353b1159756211022dd35371153aff4</sys_scope>
+        <sys_update_name>sys_ui_policy_2838db2797da211022dd35371153afd4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-25 21:10:53</sys_updated_on>
+        <table>x_965246_loaner_re_loan_history</table>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_ui_policy>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">e353b1159756211022dd35371153aff4</application>
+        <file_path/>
+        <instance_id>616f33d0dbd900100b9d21c4059619f5</instance_id>
+        <instance_name>dev95004</instance_name>
+        <name>sys_ui_policy_2838db2797da211022dd35371153afd4</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_policy"&gt;&lt;sys_ui_policy action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;conditions/&gt;&lt;description/&gt;&lt;global&gt;true&lt;/global&gt;&lt;inherit&gt;false&lt;/inherit&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;model_id/&gt;&lt;model_table/&gt;&lt;on_load&gt;true&lt;/on_load&gt;&lt;order&gt;100&lt;/order&gt;&lt;reverse_if_false&gt;true&lt;/reverse_if_false&gt;&lt;run_scripts&gt;false&lt;/run_scripts&gt;&lt;script_false&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_false&gt;&lt;script_true&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_true&gt;&lt;set_values/&gt;&lt;short_description&gt;set readonly for loan manager&lt;/short_description&gt;&lt;sys_class_name&gt;sys_ui_policy&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-04-25 21:10:33&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;2838db2797da211022dd35371153afd4&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;set readonly for loan manager&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Loaner Request" source="x_965246_loaner_re"&gt;e353b1159756211022dd35371153aff4&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Loaner Request"&gt;e353b1159756211022dd35371153aff4&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_policy_2838db2797da211022dd35371153afd4&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-04-25 21:10:53&lt;/sys_updated_on&gt;&lt;table&gt;x_965246_loaner_re_loan_history&lt;/table&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_ui_policy&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>536022314</payload_hash>
+        <record_name>set readonly for loan manager</record_name>
+        <reverted_from/>
+        <source>730b51e2979e211022dd35371153af15</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-25 21:10:53</sys_created_on>
+        <sys_id>0268176797da211022dd35371153af18</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187ba4147bc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-25 21:10:53</sys_updated_on>
+        <type>UI Policy</type>
+        <update_guid>0a681767ccda21108177bc4f50abf617</update_guid>
+        <update_guid_history>0a681767ccda21108177bc4f50abf617:536022314,01589727d0da2110826d6414168f0efe:-622954828</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-25 21:12:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy">sys_ui_policy</sys_db_object>
+        <sys_id>4bbb7b6dba0b4ce9b2e57528e9728091</sys_id>
+        <sys_metadata>2838db2797da211022dd35371153afd4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>set readonly for loan manager</sys_name>
+        <sys_package display_value="Loaner Request" source="x_965246_loaner_re">e353b1159756211022dd35371153aff4</sys_package>
+        <sys_parent display_value="Loan History">8015b1959756211022dd35371153afdf</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">e353b1159756211022dd35371153aff4</sys_scope>
+        <sys_scope_delete display_value="">13b14f0e68e24275bfae45a72a07e901</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_2838db2797da211022dd35371153afd4</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_2838db2797da211022dd35371153afd4">0268176797da211022dd35371153af18</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-25 21:12:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
