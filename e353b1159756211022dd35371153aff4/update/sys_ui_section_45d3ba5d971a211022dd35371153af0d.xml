@@ -1,100 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="" section_id="45d3ba5d971a211022dd35371153af0d" sys_domain="global" table="x_965246_loaner_re_loan_product" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.begin_split</element>
+            <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-04-18 18:44:44</sys_created_on>
-            <sys_id>4dd3729d971a211022dd35371153afcc</sys_id>
+            <sys_created_on>2023-04-29 14:41:54</sys_created_on>
+            <sys_id>07b5a27c97a6611022dd35371153afef</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_965246_loaner_re_loan_product" sys_domain="global" view="Default view">45d3ba5d971a211022dd35371153af0d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-18 18:44:44</sys_updated_on>
-            <sys_user/>
-            <type>.begin_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>number</element>
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-04-18 18:44:44</sys_created_on>
-            <sys_id>cdd3729d971a211022dd35371153afcc</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_965246_loaner_re_loan_product" sys_domain="global" view="Default view">45d3ba5d971a211022dd35371153af0d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-18 18:44:44</sys_updated_on>
+            <sys_updated_on>2023-04-29 14:41:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>2</position>
+            <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-04-18 18:44:44</sys_created_on>
-            <sys_id>41d3729d971a211022dd35371153afcd</sys_id>
+            <sys_created_on>2023-04-29 14:41:54</sys_created_on>
+            <sys_id>8bb5a27c97a6611022dd35371153afef</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_965246_loaner_re_loan_product" sys_domain="global" view="Default view">45d3ba5d971a211022dd35371153af0d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-18 18:44:44</sys_updated_on>
+            <sys_updated_on>2023-04-29 14:41:54</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>type</element>
-            <position>3</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-04-18 18:44:44</sys_created_on>
-            <sys_id>c1d3729d971a211022dd35371153afcd</sys_id>
+            <sys_created_on>2023-04-29 14:41:54</sys_created_on>
+            <sys_id>0fb5a27c97a6611022dd35371153afef</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_965246_loaner_re_loan_product" sys_domain="global" view="Default view">45d3ba5d971a211022dd35371153af0d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-18 18:44:44</sys_updated_on>
+            <sys_updated_on>2023-04-29 14:41:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>4</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-04-18 18:44:44</sys_created_on>
-            <sys_id>45d3729d971a211022dd35371153afcd</sys_id>
+            <sys_created_on>2023-04-29 14:41:54</sys_created_on>
+            <sys_id>8fb5a27c97a6611022dd35371153afef</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_965246_loaner_re_loan_product" sys_domain="global" view="Default view">45d3ba5d971a211022dd35371153af0d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-18 18:44:44</sys_updated_on>
+            <sys_updated_on>2023-04-29 14:41:54</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
-            <position>5</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-04-18 18:44:44</sys_created_on>
-            <sys_id>c5d3729d971a211022dd35371153afcd</sys_id>
+            <sys_created_on>2023-04-29 14:41:54</sys_created_on>
+            <sys_id>03b5a27c97a6611022dd35371153aff0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_965246_loaner_re_loan_product" sys_domain="global" view="Default view">45d3ba5d971a211022dd35371153af0d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-18 18:44:44</sys_updated_on>
+            <sys_updated_on>2023-04-29 14:41:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>product_number</element>
-            <position>6</position>
+            <element>loan_term</element>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-04-18 18:52:17</sys_created_on>
-            <sys_id>7785badd971a211022dd35371153afe4</sys_id>
+            <sys_created_on>2023-04-29 14:41:54</sys_created_on>
+            <sys_id>83b5a27c97a6611022dd35371153aff0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_965246_loaner_re_loan_product" sys_domain="global" view="Default view">45d3ba5d971a211022dd35371153af0d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-18 18:52:17</sys_updated_on>
+            <sys_updated_on>2023-04-29 14:41:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>interest_rate</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-29 14:41:54</sys_created_on>
+            <sys_id>07b5a27c97a6611022dd35371153aff0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_965246_loaner_re_loan_product" sys_domain="global" view="Default view">45d3ba5d971a211022dd35371153af0d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-29 14:41:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

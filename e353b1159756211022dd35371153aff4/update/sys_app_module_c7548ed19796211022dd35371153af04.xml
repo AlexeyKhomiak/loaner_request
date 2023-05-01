@@ -13,18 +13,18 @@
         <mobile_title>All</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_965246_loaner_re_loan_product</name>
-        <order>320</order>
+        <order>240</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles/>
+        <roles>x_965246_loaner_re.app_admin,x_965246_loaner_re.loan_manager</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-04-18 15:17:20</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>c7548ed19796211022dd35371153af04</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>Products</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_965246_loaner_re">e353b1159756211022dd35371153aff4</sys_package>
@@ -32,11 +32,11 @@
         <sys_scope display_value="Loaner Request">e353b1159756211022dd35371153aff4</sys_scope>
         <sys_update_name>sys_app_module_c7548ed19796211022dd35371153af04</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-04-22 08:57:03</sys_updated_on>
+        <sys_updated_on>2023-04-29 16:06:21</sys_updated_on>
         <timeline_page/>
         <title>Products</title>
         <uncancelable>false</uncancelable>
-        <view_name/>
+        <view_name>loan_product_manager</view_name>
         <window_name/>
     </sys_app_module>
 </record_update>

@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="e2144ad19796211022dd35371153af2e" label="Loan Product" max_length="40" name="x_965246_loaner_re_loan_product" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Description" max_length="2000" name="description" type="string"/>
+        <element label="Interest Rate" max_length="15" name="interest_rate" type="decimal"/>
+        <element label="K-factor" max_length="40" name="k_factor" type="float"/>
+        <element label="Loan Term" max_length="40" name="loan_term" type="integer"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element active="false" label="Product Number" max_length="40" name="product_number" type="string"/>
+        <element label="Product owner" max_length="32" name="product_owner" reference="sys_user_grmember" reference_qual="group=ba66c96e971e211022dd35371153af44^EQ" reference_qual_condition="group=ba66c96e971e211022dd35371153af44^EQ" type="reference"/>
+        <element label="Request Income" max_length="20" name="request_income" type="decimal"/>
+        <element choice="3" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Active" value="active"/>
+                <element inactive_on_update="false" label="Inactive" value="inactive"/>
+            </choice>
+        </element>
         <element attributes="edge_encryption_enabled=true" choice="1" display="true" label="Type" mandatory="true" max_length="40" name="type" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Business" value="business"/>
@@ -12,5 +23,8 @@
                 <element inactive_on_update="false" label="Wedding" value="wedding"/>
             </choice>
         </element>
+        <index name="index">
+            <element name="product_owner"/>
+        </index>
     </element>
 </database>

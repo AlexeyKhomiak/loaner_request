@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_965246_loaner_re_loan_history" version="2" view="loan_history_list">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_965246_loaner_re_loan_history" element="NULL" name="x_965246_loaner_re_loan_history" parent="NULL" relationship="NULL" sys_domain="global" view="3d4ede3497a6611022dd35371153afee">5a9e1a7497a6611022dd35371153afc8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-29 14:10:43</sys_created_on>
+            <sys_id>129e1a7497a6611022dd35371153afc9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-29 14:10:43</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>date</element>
+            <list_id display_value="x_965246_loaner_re_loan_history" element="NULL" name="x_965246_loaner_re_loan_history" parent="NULL" relationship="NULL" sys_domain="global" view="3d4ede3497a6611022dd35371153afee">5a9e1a7497a6611022dd35371153afc8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-29 14:10:43</sys_created_on>
+            <sys_id>929e1a7497a6611022dd35371153afc9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-29 14:10:43</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>loaner</element>
+            <list_id display_value="x_965246_loaner_re_loan_history" element="NULL" name="x_965246_loaner_re_loan_history" parent="NULL" relationship="NULL" sys_domain="global" view="3d4ede3497a6611022dd35371153afee">5a9e1a7497a6611022dd35371153afc8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-29 14:10:43</sys_created_on>
+            <sys_id>169e1a7497a6611022dd35371153afc9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-29 14:10:43</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>product</element>
+            <list_id display_value="x_965246_loaner_re_loan_history" element="NULL" name="x_965246_loaner_re_loan_history" parent="NULL" relationship="NULL" sys_domain="global" view="3d4ede3497a6611022dd35371153afee">5a9e1a7497a6611022dd35371153afc8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-29 14:10:43</sys_created_on>
+            <sys_id>969e1a7497a6611022dd35371153afc9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-29 14:10:43</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sum</element>
+            <list_id display_value="x_965246_loaner_re_loan_history" element="NULL" name="x_965246_loaner_re_loan_history" parent="NULL" relationship="NULL" sys_domain="global" view="3d4ede3497a6611022dd35371153afee">5a9e1a7497a6611022dd35371153afc8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-29 14:10:43</sys_created_on>
+            <sys_id>1a9e1a7497a6611022dd35371153afc9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-29 14:10:43</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_965246_loaner_re_loan_history</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-29 14:10:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5a9e1a7497a6611022dd35371153afc8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_965246_loaner_re_loan_history</sys_name>
+            <sys_package display_value="Loaner Request" source="x_965246_loaner_re">e353b1159756211022dd35371153aff4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">e353b1159756211022dd35371153aff4</sys_scope>
+            <sys_update_name>sys_ui_list_x_965246_loaner_re_loan_history_loan_history_list</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-29 14:10:43</sys_updated_on>
+            <sys_user/>
+            <view display_value="loan history list" name="loan_history_list">3d4ede3497a6611022dd35371153afee</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">e353b1159756211022dd35371153aff4</application>
+        <file_path/>
+        <instance_id>616f33d0dbd900100b9d21c4059619f5</instance_id>
+        <instance_name>dev95004</instance_name>
+        <name>sys_ui_list_x_965246_loaner_re_loan_history_loan_history_list</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_965246_loaner_re_loan_history" version="2" view="loan_history_list"><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>number</element><list_id display_value="x_965246_loaner_re_loan_history" element="NULL" name="x_965246_loaner_re_loan_history" parent="NULL" relationship="NULL" sys_domain="global" view="3d4ede3497a6611022dd35371153afee">5a9e1a7497a6611022dd35371153afc8</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-29 14:10:43</sys_created_on><sys_id>129e1a7497a6611022dd35371153afc9</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-29 14:10:43</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>date</element><list_id display_value="x_965246_loaner_re_loan_history" element="NULL" name="x_965246_loaner_re_loan_history" parent="NULL" relationship="NULL" sys_domain="global" view="3d4ede3497a6611022dd35371153afee">5a9e1a7497a6611022dd35371153afc8</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-29 14:10:43</sys_created_on><sys_id>929e1a7497a6611022dd35371153afc9</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-29 14:10:43</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>loaner</element><list_id display_value="x_965246_loaner_re_loan_history" element="NULL" name="x_965246_loaner_re_loan_history" parent="NULL" relationship="NULL" sys_domain="global" view="3d4ede3497a6611022dd35371153afee">5a9e1a7497a6611022dd35371153afc8</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-29 14:10:43</sys_created_on><sys_id>169e1a7497a6611022dd35371153afc9</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-29 14:10:43</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>product</element><list_id display_value="x_965246_loaner_re_loan_history" element="NULL" name="x_965246_loaner_re_loan_history" parent="NULL" relationship="NULL" sys_domain="global" view="3d4ede3497a6611022dd35371153afee">5a9e1a7497a6611022dd35371153afc8</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-29 14:10:43</sys_created_on><sys_id>969e1a7497a6611022dd35371153afc9</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-29 14:10:43</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sum</element><list_id display_value="x_965246_loaner_re_loan_history" element="NULL" name="x_965246_loaner_re_loan_history" parent="NULL" relationship="NULL" sys_domain="global" view="3d4ede3497a6611022dd35371153afee">5a9e1a7497a6611022dd35371153afc8</list_id><max_value>false</max_value><min_value>false</min_value><position>4</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-29 14:10:43</sys_created_on><sys_id>1a9e1a7497a6611022dd35371153afc9</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-29 14:10:43</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_965246_loaner_re_loan_history</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-29 14:10:43</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5a9e1a7497a6611022dd35371153afc8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_965246_loaner_re_loan_history</sys_name><sys_package display_value="Loaner Request" source="x_965246_loaner_re">e353b1159756211022dd35371153aff4</sys_package><sys_policy/><sys_scope display_value="Loaner Request">e353b1159756211022dd35371153aff4</sys_scope><sys_update_name>sys_ui_list_x_965246_loaner_re_loan_history_loan_history_list</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-29 14:10:43</sys_updated_on><sys_user/><view display_value="loan history list" name="loan_history_list">3d4ede3497a6611022dd35371153afee</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>1077451807</payload_hash>
+        <record_name>Loan History</record_name>
+        <reverted_from/>
+        <source>730b51e2979e211022dd35371153af15</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-29 14:10:43</sys_created_on>
+        <sys_id>5e9e1a7497a6611022dd35371153afcb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187cd5a0c560000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-29 14:10:43</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>169e1a7439a66110c9c4da52563c99cb</update_guid>
+        <update_guid_history>169e1a7439a66110c9c4da52563c99cb:1077451807,cb7ed674d4a66110f040bfc1f5f61c16:-443365289,424ede3407a66110efd0f2e040026df8:-604807573</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-29 14:16:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>07287fa1cf8f4d2d96c0a2863cb35011</sys_id>
+        <sys_metadata>5a9e1a7497a6611022dd35371153afc8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_965246_loaner_re_loan_history</sys_name>
+        <sys_package display_value="Loaner Request" source="x_965246_loaner_re">e353b1159756211022dd35371153aff4</sys_package>
+        <sys_parent display_value="Loan History">8015b1959756211022dd35371153afdf</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">e353b1159756211022dd35371153aff4</sys_scope>
+        <sys_scope_delete display_value="">13b14f0e68e24275bfae45a72a07e901</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_965246_loaner_re_loan_history_loan_history_list</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_965246_loaner_re_loan_history_loan_history_list">5e9e1a7497a6611022dd35371153afcb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-29 14:16:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
