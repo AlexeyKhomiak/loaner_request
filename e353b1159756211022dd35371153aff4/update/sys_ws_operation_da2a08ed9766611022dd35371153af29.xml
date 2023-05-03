@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_operation">
+    <sys_ws_operation action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <consumes>application/json,application/xml,text/xml</consumes>
+        <consumes_customized>false</consumes_customized>
+        <default_operation_uri/>
+        <enforce_acl>7d69b03197e6a11022dd35371153affd</enforce_acl>
+        <http_method>GET</http_method>
+        <name>products</name>
+        <operation_script><![CDATA[(function process(/*RESTAPIRequest*/ request, /*RESTAPIResponse*/ response) {
+  // implement resource here
+
+  var records = [];
+  var type = request.queryParams.type;
+
+  var loanProductGR = new GlideRecord("x_965246_loaner_re_loan_product");
+
+  if (type) {
+    loanProductGR.addQuery("type", type);
+  }
+  loanProductGR.addQuery("status", "active");
+  loanProductGR.query();
+
+  while (loanProductGR.next()) {
+    var record = {};
+    record.type = loanProductGR.getValue("type");
+    record.description = loanProductGR.getValue("description");
+    record.loan_term = loanProductGR.getValue("loan_term");
+    record.interest_rate = loanProductGR.getValue("interest_rate");
+    records.push(record);
+  }
+
+  if (records.length === 0) {
+    response.setStatus(204);
+    return;
+  } else {
+    response.setStatus(200);
+    response.setContentType("application/json");
+    response.setBody(records);
+  }
+})(request, response);
+]]></operation_script>
+        <operation_uri>/api/x_965246_loaner_re/loan_request/products</operation_uri>
+        <produces>application/json,application/xml,text/xml</produces>
+        <produces_customized>false</produces_customized>
+        <relative_path>/products</relative_path>
+        <request_example/>
+        <requires_acl_authorization>true</requires_acl_authorization>
+        <requires_authentication>true</requires_authentication>
+        <requires_snc_internal_role>true</requires_snc_internal_role>
+        <short_description/>
+        <sys_class_name>sys_ws_operation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-01 11:20:22</sys_created_on>
+        <sys_id>da2a08ed9766611022dd35371153af29</sys_id>
+        <sys_mod_count>16</sys_mod_count>
+        <sys_name>products</sys_name>
+        <sys_package display_value="Loaner Request" source="x_965246_loaner_re">e353b1159756211022dd35371153aff4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">e353b1159756211022dd35371153aff4</sys_scope>
+        <sys_update_name>sys_ws_operation_da2a08ed9766611022dd35371153af29</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-03 08:48:17</sys_updated_on>
+        <web_service_definition display_value="Loan Request">ed44c0a99766611022dd35371153af85</web_service_definition>
+        <web_service_version/>
+    </sys_ws_operation>
+</record_update>
