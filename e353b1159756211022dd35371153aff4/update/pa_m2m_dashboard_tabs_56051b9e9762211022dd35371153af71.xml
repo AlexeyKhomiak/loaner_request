@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="Loan Request">62e4979e9762211022dd35371153af7b</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-04 09:59:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>56051b9e9762211022dd35371153af71</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>62e4979e9762211022dd35371153af7b</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Request" source="x_965246_loaner_re">e353b1159756211022dd35371153aff4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">e353b1159756211022dd35371153aff4</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_56051b9e9762211022dd35371153af71</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-04 09:59:26</sys_updated_on>
+        <tab display_value="Loan Request - New Tab">5a051b9e9762211022dd35371153af6e</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>

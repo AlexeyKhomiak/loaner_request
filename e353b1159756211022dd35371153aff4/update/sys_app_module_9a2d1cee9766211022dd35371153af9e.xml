@@ -4,39 +4,37 @@
         <application display_value="Loaner Request">7e548ad19796211022dd35371153aff1</application>
         <assessment/>
         <device_type/>
-        <filter table="sc_task">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
-            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
-        </filter>
+        <filter/>
         <hint/>
         <homepage/>
         <image/>
-        <link_type>LIST</link_type>
+        <link_type>SEPARATOR</link_type>
         <map_page/>
-        <mobile_title>Catalog Item Tasks</mobile_title>
+        <mobile_title>Users</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>sc_task</name>
-        <order>240</order>
+        <name>sys_user_grmember</name>
+        <order>500</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_965246_loaner_re.loan_manager,x_965246_loaner_re.app_admin</roles>
+        <roles>x_965246_loaner_re.app_admin</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-04-25 11:17:19</sys_created_on>
+        <sys_created_on>2023-05-04 15:15:37</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>2030d9e397d2211022dd35371153af7f</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>Catalog Item Tasks</sys_name>
+        <sys_id>9a2d1cee9766211022dd35371153af9e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Users</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_965246_loaner_re">e353b1159756211022dd35371153aff4</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">e353b1159756211022dd35371153aff4</sys_scope>
-        <sys_update_name>sys_app_module_2030d9e397d2211022dd35371153af7f</sys_update_name>
+        <sys_update_name>sys_app_module_9a2d1cee9766211022dd35371153af9e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-05-05 09:22:01</sys_updated_on>
+        <sys_updated_on>2023-05-04 15:15:37</sys_updated_on>
         <timeline_page/>
-        <title>Catalog Item Tasks</title>
+        <title>Users</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
